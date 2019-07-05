@@ -1,5 +1,7 @@
 # vue-note-app
 
+<img src='screen.png'>
+
 ## Project setup
 ```
 npm install
