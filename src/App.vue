@@ -1,7 +1,7 @@
 <template>
     <div id="app">
         <div style="color: blue;">
-            <h1>grokonez</h1>
+            <h1>FunnyJerry</h1>
             <h3>Note App</h3>
         </div>
         <div class="row">
