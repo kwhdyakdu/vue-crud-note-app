@@ -1,6 +1,8 @@
 # vue-note-app
 
-<img src='screen.png'>
+<kbd>
+	<img src='vueCrud.png'>
+</kbd>
 
 ## Project setup
 ```
