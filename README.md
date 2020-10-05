@@ -1,4 +1,4 @@
-# vue-note-app
+# vue-note-app example
 
 <kbd>
 	<img src='vueCrud.png'>
